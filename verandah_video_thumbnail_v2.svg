@@ -1,0 +1,47 @@
+<svg width="100%" viewBox="0 0 680 383" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="680" height="383" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+
+    <!-- Base teal -->
+    <rect x="0" y="0" width="680" height="383" fill="#006b63" style="fill:rgb(0, 107, 99);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <ellipse cx="340" cy="191" rx="360" ry="260" fill="#008C82" opacity="0.7" style="fill:rgb(0, 140, 130);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <ellipse cx="620" cy="40" rx="220" ry="180" fill="#D4AF50" opacity="0.13" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.13;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <ellipse cx="60" cy="360" rx="200" ry="160" fill="#003d38" opacity="0.45" style="fill:rgb(0, 61, 56);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <polygon points="680,383 680,240 540,383" fill="#D4AF50" opacity="0.12" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <line x1="0" y1="68" x2="680" y2="68" stroke="#ffffff" stroke-width="0.5" opacity="0.08" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <line x1="0" y1="315" x2="680" y2="315" stroke="#D4AF50" stroke-width="0.5" opacity="0.18" style="fill:rgb(0, 0, 0);stroke:rgb(212, 175, 80);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.18;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- ── LOGO AREA — wordmark only, no V circle ── -->
+    <text x="40" y="33" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#ffffff" opacity="0.95" letter-spacing="2" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:Georgia, serif;font-size:17px;font-weight:700;text-anchor:start;dominant-baseline:auto">VERANDAH</text>
+    <text x="40" y="50" font-family="Georgia, serif" font-size="10" fill="#D4AF50" opacity="0.9" letter-spacing="1.5" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:Georgia, serif;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">PROPERTIES, LLC</text>
+    <line x1="40" y1="57" x2="215" y2="57" stroke="#D4AF50" stroke-width="0.75" opacity="0.6" style="fill:rgb(0, 0, 0);stroke:rgb(212, 175, 80);color:rgb(255, 255, 255);stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- ── EYEBROW LABEL ── -->
+    <rect x="240" y="120" width="200" height="24" rx="12" fill="#D4AF50" opacity="0.18" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.18;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <text x="340" y="136" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#D4AF50" text-anchor="middle" letter-spacing="2" opacity="0.95" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:Arial, sans-serif;font-size:11px;font-weight:700;text-anchor:middle;dominant-baseline:auto">LANDLORD SHIELD COVERAGE</text>
+
+    <!-- ── MAIN TITLE ── -->
+    <text x="340" y="186" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" opacity="0.97" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.97;font-family:Georgia, serif;font-size:28px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Watch: How Landlord Shield</text>
+    <text x="340" y="222" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" opacity="0.97" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.97;font-family:Georgia, serif;font-size:28px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Protects You</text>
+
+    <!-- ── PLAY BUTTON ── -->
+    <circle cx="340" cy="295" r="38" fill="#D4AF50" opacity="0.18" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.18;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="340" cy="295" r="30" fill="#D4AF50" style="fill:rgb(212, 175, 80);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <polygon points="332,283 332,307 356,295" fill="#006b63" style="fill:rgb(0, 107, 99);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- ── DURATION ── -->
+    <text x="390" y="300" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff" opacity="0.85" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:Arial, sans-serif;font-size:15px;font-weight:600;text-anchor:start;dominant-baseline:auto">2 min</text>
+
+    <!-- ── BOTTOM TAGLINE ── -->
+    <text x="340" y="352" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#ffffff" text-anchor="middle" opacity="0.55" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:Georgia, serif;font-size:12px;font-weight:400;font-style:italic;text-anchor:middle;dominant-baseline:auto">Lake Nona's Property Management Standard</text>
+
+    <!-- Border frame -->
+    <rect x="1" y="1" width="678" height="381" rx="9" fill="none" stroke="#D4AF50" stroke-width="1" opacity="0.25" style="fill:none;stroke:rgb(212, 175, 80);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  </g>
+</svg>
